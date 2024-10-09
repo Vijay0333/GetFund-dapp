@@ -1,2 +1,2 @@
 # GetFund-dapp
-GetFund dapp is based on cowdfunding web aplication.
+GetFund Dapp is based on crowdfunding web aplication.
